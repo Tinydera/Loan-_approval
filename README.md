@@ -20,5 +20,6 @@ Some libraries used on this project include:
 * Plotly Visualization Package – For all visualizations
 
 # Process Flowchart
-![image](https://github.com/user-attachments/assets/2512e0f2-759f-48b8-85f1-612fa100e5f5)
+![image](https://github.com/user-attachments/assets/e4cb76ab-ed02-4526-81e8-e9bb220cee75)
+
 
