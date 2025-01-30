@@ -9,3 +9,16 @@ A bank has gotten a list of loans and don’t have time to approve or reject the
 * What is the best KPI (recall, precision, F1-score, etc) to measure the performance of your models?
 * Summarize all the KPIs for each model in a table including the processing time for running the models.
 * Of those models, which one has the best performance according to your answer in Q3 and the processing time?
+
+# Methodology
+Python Libraries
+Some libraries used on this project include:
+
+* Pandas – For storing and manipulating structured data. Pandas functionality is built on NumPy
+* Numpy – For multi-dimensional array, matrix data structures and, performing mathematical operations
+* Scikit learn – For Machine learning tasks
+* Plotly Visualization Package – For all visualizations
+
+# Process Flowchart
+![image](https://github.com/user-attachments/assets/2512e0f2-759f-48b8-85f1-612fa100e5f5)
+
